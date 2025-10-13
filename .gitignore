@@ -12,3 +12,5 @@ reports/
 testme.sh
 .nf-test*
 .vscode
+*.conf
+*.config
